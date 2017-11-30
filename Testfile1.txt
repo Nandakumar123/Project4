@@ -1,1 +1,2 @@
 this is the test file from git bsh
+This is a new file in the commit 
